@@ -4,6 +4,9 @@ site_name: Project-to-Create-Documentation
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - Python : python.md
+  - Machine Learning : ML.md
+  - Deep Learning : DP.md 
 
 site_author: othmane zoubairi
 site_description: >-
@@ -69,4 +72,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/manotti22"  target="_blank" rel="noopener">othmane xoubairi</a>
+  &copy; 2022 <a href="https://github.com/manotti22"  target="_blank" rel="noopener">othmane zoubairi</a>
